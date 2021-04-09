@@ -1,0 +1,3 @@
+python.setInterpreter
+clangd.install
+python.startREPL

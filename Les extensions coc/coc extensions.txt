@@ -1,0 +1,1 @@
+:CocInstall coc-python coc-clangd coc-go coc-json coc-snippets coc-vimlsp coc-pairs
